@@ -1,0 +1,16 @@
+G:\DemoCSharp_1951\Builder\Builder\bin\Debug\net5.0\Builder.exe
+G:\DemoCSharp_1951\Builder\Builder\bin\Debug\net5.0\Builder.deps.json
+G:\DemoCSharp_1951\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+G:\DemoCSharp_1951\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+G:\DemoCSharp_1951\Builder\Builder\bin\Debug\net5.0\Builder.dll
+G:\DemoCSharp_1951\Builder\Builder\bin\Debug\net5.0\ref\Builder.dll
+G:\DemoCSharp_1951\Builder\Builder\bin\Debug\net5.0\Builder.pdb
+G:\DemoCSharp_1951\Builder\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
+G:\DemoCSharp_1951\Builder\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+G:\DemoCSharp_1951\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+G:\DemoCSharp_1951\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+G:\DemoCSharp_1951\Builder\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+G:\DemoCSharp_1951\Builder\Builder\obj\Debug\net5.0\Builder.dll
+G:\DemoCSharp_1951\Builder\Builder\obj\Debug\net5.0\ref\Builder.dll
+G:\DemoCSharp_1951\Builder\Builder\obj\Debug\net5.0\Builder.pdb
+G:\DemoCSharp_1951\Builder\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
